@@ -1,0 +1,52 @@
+===20170315-170140,rop_connectdb_nopwd[363]=== [-][GMS_REDIS]Connect 127.0.0.1:6739 Error:Connection refused
+
+===20170315-170326,rop_connectdb_nopwd[363]=== [-][GMS_REDIS]Connect 127.0.0.1:6739 Error:Connection refused
+
+===20170315-170609,rop_connectdb_nopwd[363]=== [-][GMS_REDIS]Connect 127.0.0.1:6739 Error:Connection refused
+
+===20170315-170945,rop_connectdb_nopwd[363]=== [-][GMS_REDIS]Connect 127.0.0.1:6739 Error:Connection refused
+
+===20170315-173655,rop_connectdb_nopwd[363]=== [-][GMS_REDIS]Connect 127.0.0.1:6739 Error:Connection refused
+
+===20170315-174007,rop_connectdb_nopwd[363]=== [-][GMS_REDIS]Connect 127.0.0.1:6739 Error:Connection refused
+
+===20170315-174151,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-174151,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-183825,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-183825,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-185659,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-185659,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-191500,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-191500,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-192055,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-192055,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-193646,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-193733,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-193839,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-194042,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-194435,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-194435,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-194800,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-194800,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170315-194838,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170315-194838,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
